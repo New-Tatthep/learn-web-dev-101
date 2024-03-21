@@ -1,0 +1,9 @@
+.btn-page-primary {
+    background-color: #32dfd2;
+    border-radius: 5px;
+    width: 100px;
+    font-weight: 500;
+}
+body {
+    font-family: "Times New Roman", serif;
+}
